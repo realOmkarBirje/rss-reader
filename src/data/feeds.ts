@@ -7,9 +7,9 @@ const FEEDS: FeedlyProvider[] = [
 
     
     {
-      "title": "Daring Fireball",
-      "website": "http://daringfireball.net/",
-      "feedId": "feed/http://daringfireball.net/index.xml",
+      "title": "NYT Technology",
+      "website": "http://nytimes.com/",
+      "feedId": "feed/http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
       "lastUpdated": 1520207220000,
       "velocity": 18.1,
       "subscribers": 129803,
