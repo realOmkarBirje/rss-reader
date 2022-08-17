@@ -51,6 +51,29 @@ const FEEDS: FeedlyProvider[] = [
         "mac"
       ]
     },
+    
+    {
+      "title": "theVerge Breaking",
+      "website": "http://theverge.com/",
+      "feedId": "feed/http://www.theverge.com/rss/label/breaking/index.xml",
+      "lastUpdated": 1520207220000,
+      "velocity": 18.1,
+      "subscribers": 129803,
+      "curated": true,
+      "featured": true,
+      "contentType": "article",
+      "language": "en",
+      "description": "Entries from Daring Fireball. Sort of like RSS but via Twitter.",
+      "iconUrl": "https://someSite/someIconImage",
+      "visualUrl": "https://someSite/someVisualImage",
+      "partial": false,
+      "coverColor": "4A525A",
+      "deliciousTags": [
+        "tech",
+        "apple",
+        "mac"
+      ]
+    },
 
 ]
 
